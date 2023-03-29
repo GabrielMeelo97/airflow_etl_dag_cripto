@@ -1,4 +1,4 @@
-# Readme do Projeto de Coleta de Variação Cambial de Criptomoedas
+# Projeto de Coleta de Variação Cambial de Criptomoedas
 
 Este projeto consiste em uma DAG (Directed Acyclic Graph) que coleta a variação cambial de algumas criptomoedas e retorna um print mostrando qual criptomoeda teve a maior variação. O projeto foi desenvolvido para ser executado no Apache Airflow.
 
